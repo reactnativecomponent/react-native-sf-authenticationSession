@@ -1,0 +1,27 @@
+{
+  "name": "react-native-sf-authenticationSession",
+  "version": "0.1.1",
+  "description": "react-native wrapper around SfAuthenticationSession",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeandeCampredon/react-native-referrer.git"
+  },
+  "keywords": [
+    "react-native",
+    "SfAuthenticationSession",
+    "share",
+    "authentication",
+    "safari",
+    "cookie",
+    "ios"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
